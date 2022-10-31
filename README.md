@@ -47,4 +47,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant8gite&show_icons=true&locale=en&layout=compact" alt="hemant8gite" width="300" height="150"/></p>
 
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant8gite" alt="hemant8gite" width="600" height="150"/></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant8gite" alt="hemant8gite" width="500" height="150"/></a> </p>
