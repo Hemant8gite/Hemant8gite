@@ -8,7 +8,7 @@
 <div align="left">
   
 
-<p align="left"> <a href="https://twitter.com/hemantgite15" target="blank"><img src="https://img.shields.io/twitter/follow/hemantgite15?logo=twitter&style=for-the-badge" alt="hemantgite15" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/hemantgite15" target="blank"><img src="https://img.shields.io/twitter/follow/hemantgite15?logo=twitter&style=for-the-badge" alt="hemantgite15" /></a> </p> -->
   
   <div class="Image1" align="center"> <img src="https://raw.githubusercontent.com/ScorchingShade/ScorchingShade/main/code.gif" width="300" border-radious="50%"/></div>
 
