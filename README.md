@@ -15,7 +15,7 @@
   <div align="center">
    🌱 I’m currently learning **tailwindCss and sql**
 
-    👨‍💻 All of my projects are available at <a href="http://portfolios.ecti.co.in/hemantg/">Portfolio</a>
+    👨‍💻 All of my projects are available at <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">Portfolio</a>
 
  💬 Ask me about **CSS, javaScript and Html**
 
