@@ -16,7 +16,7 @@
    🌱 I’m currently learning **tailwindCss and sql**
 
    👨‍💻 All of my projects are available at
-    <a href="http://portfolios.ecti.co.in/hemantg/" target="_blank">Portfolio</a>
+    <a href="https://hemantsportfolio.netlify.app/" target="_blank">Portfolio</a>
 
  💬 Ask me about **CSS, javaScript and Html**
 
